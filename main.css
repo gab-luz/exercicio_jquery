@@ -1,0 +1,30 @@
+*{
+    background-color: azure;
+    font-family: Roboto, sans-serif;
+}
+
+#titulo_lista{
+    display: flex;
+    justify-content: center;
+    flex: auto;
+    margin: auto;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+.elemento_lista{
+    flex: auto;
+    justify-content: center;
+    margin: auto;
+    flex-wrap: nowrap;
+}
+
+#lista-de-tarefas{
+    flex: auto;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+}
